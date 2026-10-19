@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pysal/momepy/commit/7634925d7264a0203c72796943bb06e61fb82025",
       "git:hexsha": "7634925d7264a0203c72796943bb06e61fb82025",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:37:53.158036+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pysal/momepy/commit/c82e26ab4f68bef70aec552b27a14eb16977f77c",
